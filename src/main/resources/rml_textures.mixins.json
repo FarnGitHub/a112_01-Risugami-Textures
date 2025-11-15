@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "farn.rml_textures.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"client": [
+    "TextureManagerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
